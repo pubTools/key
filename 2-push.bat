@@ -1,1 +1,1 @@
-git push
+git push --force origin master
